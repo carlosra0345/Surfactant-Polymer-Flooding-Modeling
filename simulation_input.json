@@ -6,24 +6,6 @@
         "initial_surfactant_concentration": 0.9,
         "plot_type": "saturation",
         "polymer_type": "xanthane",
-        "permeability_field_type": "homogenous"
-    },
-    {
-        "size_of_grid": 29,
-        "shear_thinning_on": false,
-        "initial_polymer_concentration": 0.001,
-        "initial_surfactant_concentration": 0.9,
-        "plot_type": "saturation",
-        "polymer_type": "xanthane",
-        "permeability_field_type": "homogenous"
-    },
-    {
-        "size_of_grid": 29,
-        "shear_thinning_on": false,
-        "initial_polymer_concentration": 0.001,
-        "initial_surfactant_concentration": 0.9,
-        "plot_type": "saturation",
-        "polymer_type": "xanthane",
-        "permeability_field_type": "homogenous"
+        "simulation_type": "quarter-five spot heterogenous"
     }
 ]
